@@ -1,4 +1,4 @@
-package solid;
+package wildcards;
 
 
 import java.util.List;

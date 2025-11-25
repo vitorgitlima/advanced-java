@@ -1,9 +1,10 @@
-solid/Gato.class
+wildcards/UpperBoundedWildCard.class
 generics/ListaSemGenerics.class
-solid/Animal.class
-solid/Cachorro.class
-solid/ExemploLSP.class
+wildcards/Animal.class
+wildcards/ExemploLSP.class
 generics/Lista.class
+wildcards/Gato.class
 generics/ArrayUtilsSemGenerics.class
+wildcards/Cachorro.class
 generics/TodoListSemVarArgs.class
 generics/TodoListSVA.class
